@@ -8,7 +8,7 @@ public class GaryApp {
         me();
     }
 
-    public static void public void me() {
+    public static void me() {
         System.out.println("hi");
     }
 }
