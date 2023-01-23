@@ -9,6 +9,6 @@ public class GaryApp {
     }
 
     public static void me() {
-        System.out.println("hi");
+        System.out.println("hi !!");
     }
 }
